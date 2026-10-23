@@ -22,7 +22,7 @@ public class ArrayTest02 {
 		System.out.println(tot);
 		
 		//------------------------------------
-		// 2차원배열 연습합니다
+		// 2차원배열 연습합니다 
 		double [][] salesTot = new double[][] {
 			// 1/4  2/4  3/4  4/4
 			{  100, 101, 90,  80 } // 2022  : salesTot[0]
