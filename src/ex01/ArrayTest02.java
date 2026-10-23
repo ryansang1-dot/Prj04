@@ -22,7 +22,7 @@ public class ArrayTest02 {
 		System.out.println(tot);
 		
 		//------------------------------------
-		// 2차원배열 연습
+		// 2차원배열 연습합니다
 		
 	}
 
