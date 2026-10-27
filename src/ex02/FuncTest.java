@@ -46,7 +46,7 @@ public class FuncTest {
 		Scanner in  =  new Scanner(System.in); 
 		System.out.println("번호,이름,국어,영어,수학");
 		// line "1,안유진,90,80,70" 
-		// Li  0 	1		2  3  4
+		// li  0 	1		2  3  4
 		// 	  "1","안유진","90","80","70"
 		String  	line = in.nextLine();
 		String []	li	=	line.split(","); // 문자열  -> 문자열 배열
